@@ -29,6 +29,7 @@ You can see the description of the implementation method in the following file:
 Navigation Using Distance Sensor and GPS from Start Point:
 
 ![App Screenshot](https://github.com/kiananvari/Reinforcement-learning-Robot-Navigation/raw/main/gifs/1-ORG.gif)
+
 Navigation Using Distance Sensor and GPS from Another Start Point (Without Training Again):
 
 ![App Screenshot](https://github.com/kiananvari/Reinforcement-learning-Robot-Navigation/raw/main/gifs/1-MOVED.gif)
